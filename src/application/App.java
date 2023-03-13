@@ -9,5 +9,9 @@ public class App {
 
         Client c = new Client(1, "Ana Clara");
         System.out.println(c);
+
+        Client c1 = new Client(1, "Ana Julia");
+        System.out.println(c1);
+
     }
 }
